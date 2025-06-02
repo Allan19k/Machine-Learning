@@ -34,8 +34,4 @@ Cada proyecto tiene una descripción breve y las tecnologías utilizadas:
 
 ---
 
-## ⚙️ ¿Cómo usar este repositorio?
 
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/[tu-usuario]/machine-learning-7mo-semestre.git
